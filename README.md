@@ -1,2 +1,3 @@
 # Merge Conflict Practice
-This is the original README file on the main branch.
+This line is from branch B
+This project has a COLLABORATORS file.
